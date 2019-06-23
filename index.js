@@ -8,10 +8,12 @@
 // 4. Create a variable called `max` that will return "20" as the highest number in
 //   the set.
 
- const num1 = 62 
- const num2 = 1 
+
 
 function multiply() {
+
+const num1 = 62 
+const num2 = 1 
  
  return (num1 * num2)
   
