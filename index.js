@@ -16,7 +16,7 @@ const num2 = 1
 const multiply = num1*num2 
 
 
-let random = Math.random()
+let random = Math.random() + .00001 
 
 
  
