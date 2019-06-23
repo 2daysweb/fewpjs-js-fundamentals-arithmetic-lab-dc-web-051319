@@ -10,8 +10,8 @@
 
 function multiply() {
  
-  num1 = 62 
-  num2 = 1 
+  let num1 = 62 
+  let num2 = 1 
   
   return num1 * num2 
   
