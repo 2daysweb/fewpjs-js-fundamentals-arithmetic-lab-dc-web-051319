@@ -18,7 +18,7 @@ const multiply = num1*num2
 
 let random = Math.random() + .00001 
 let mod = 19%5 
-let max = Math.max([20, 10, 2])
+let max = Math.max(20, 10, 9)
 
 
 
